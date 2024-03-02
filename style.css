@@ -1,0 +1,61 @@
+
+#head{
+    width: 500px;
+    text-align: center;
+    background-color: #F5DD61;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#main{
+    width: 200px;height: 200px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px;
+    border: 20px solid #FF7ED4;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-color: #C5EBAA;
+}
+#text{
+    background-color: #FF7ED4;
+    width: 230px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding: 5px; 
+    border-left: 10px;
+    border-right: 10px;
+}
+.noto-sans {
+  font-family: "Noto Sans Kannada", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 200;
+}
+#main1{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+ 
+}
+hr{
+    width: 50%;
+    height: 5px;
+    background-color: #344955;
+}
+#foot{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    
+
+}
